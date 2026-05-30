@@ -1,6 +1,7 @@
 <div align="center">
   <P>
-       <img src="https://file.garden/ZVYIicPdJFNCIiYP/cobb.gif"/>
+       <img src="https://file.garden/ZVYIicPdJFNCIiYP/cobb.gif"
+         height=400/>
     <p>
  
 
